@@ -1,4 +1,4 @@
-## Showcasing MRR monthly data & updating custom attributes using Chart Mogul API  🍩
+## Showcasing MRR monthly data & updating custom attributes using Chart Mogul API  
 
 #### Tech Stack :
 - Node
