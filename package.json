@@ -1,0 +1,19 @@
+{
+  "name": "chart-mogul",
+  "version": "1.0.0",
+  "description": "chart mogul exercies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chart",
+    "mogul"
+  ],
+  "author": "ayanbhadury",
+  "license": "ISC",
+  "dependencies": {
+    "chartmogul-node": "^1.2.1",
+    "dotenv": "^8.2.0"
+  }
+}
